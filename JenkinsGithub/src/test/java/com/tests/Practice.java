@@ -9,4 +9,10 @@ public class Practice {
 	{
 		System.out.println("hello India");
 	}
+	
+	@Test
+	public void test02()
+	{
+		System.out.println("Jai Maharashtra");
+	}
 }
