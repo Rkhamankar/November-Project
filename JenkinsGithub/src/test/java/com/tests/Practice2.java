@@ -14,5 +14,6 @@ public class Practice2 {
 	public void test02()
 	{
 		System.out.println("Jai Maharashtra");
+		System.out.println("mahesh");
 	}
 }

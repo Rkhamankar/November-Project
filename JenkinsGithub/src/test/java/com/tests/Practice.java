@@ -8,6 +8,7 @@ public class Practice {
 	public void test01()
 	{
 		System.out.println("hello India");
+		System.out.println("Abc");
 	}
 	
 	@Test
